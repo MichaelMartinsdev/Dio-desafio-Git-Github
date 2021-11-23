@@ -1,4 +1,6 @@
-Git bash is a terminal the can be used instead of a graphical interface, 
+Git bash is a terminal that can be used, instead of a graphical interface, 
 it's a great way to learn the basics comands and display them in the terminal.
 
-For more information about the documantation of the Git functionalities and other stuff you can visit this website: https://git-scm.com/docs 
+Important comands used to update the local base of data within the cloud space: after commiting with git commit -m "..." use the comand git push origin main.
+
+For more information about the documantation of the Git functionalities and other stuff you can visit this website: https://git-scm.com/docs
