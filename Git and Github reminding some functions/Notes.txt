@@ -1,0 +1,4 @@
+Git bash is a terminal the can be used instead of a graphical interface, 
+it's a great way to learn the basics comands and display them in the terminal.
+
+For more information about the documantation of the Git functionalities and other stuff you can visit this website: https://git-scm.com/docs 
